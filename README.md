@@ -78,4 +78,3 @@ A detailed conclusion has been provided in the Communication_fordgo.ipynb.
     1. FordGoBike Data Set
     2. Haversine formula used to calculate distances using latitude and longitude
     3. Stackoverflow
-    4. Google
