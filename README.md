@@ -9,8 +9,8 @@ As of January 2018, the system had seen nearly 500,000 rides since the launch in
 ![alt text](https://raw.githubusercontent.com/niladrihere/Udacity-Data-Analyst-Project-07---Communicate_Data_Findings-Ford_go/master/FordGo.jpg)
 
 #### Python libraries used:
-          
-      1. numpy 
+
+      1. numpy
       2. pandas
       3. matplotlib
       4. seaborn
@@ -26,7 +26,7 @@ Exploratory data visualization generally occurs during and after the data wrangl
 Explanatory data visualization techniques are used after generating my findings, and are used to help communicate my results to others. Understanding design considerations will make sure that my message is clear and effective. In addition to being a good producer of visualizations, going through this project will also help you be a good consumer of visualizations that are presented to you by others.
 
 
-### Structure of the data set.
+### Structure of the data set
 
 Previously there were 2,734,625 bike rides but after cleaning the data it is 2,583,000 rides happended during Jan 2018 to April 2019. The structure of the datatset:
 
@@ -36,7 +36,7 @@ start time and end time : detailed timestamp
 
 station id : unique station id
 
-start station and end station name : characters 
+start station and end station name : characters
 
 latitude and longitude for start station and end station : coordinates
 
@@ -44,7 +44,7 @@ customer user type : customer or subscriber
 
 customer gender
 
-customer birth date 
+customer birth date
 
 bike id : unique bike id
 Additional columns were added in order to gain in-depth insight of the dataset:
