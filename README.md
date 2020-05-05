@@ -72,7 +72,7 @@ Gender distribution
 
 ## Conclusion
 
-A detailed conclusion has been provided in the Communication_fordgo.ipynb.
+A detailed conclusion has been provided in the Communicate_fordgo.ipynb and a brief report has been compiled in Slide_deck_fordgo.ipynb.
 
 ### Sources :
     1. FordGoBike Data Set
